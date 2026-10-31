@@ -1,0 +1,6 @@
+# Compiled class files
+bin/
+*.class
+
+# Tooling and caches
+.qodo/
